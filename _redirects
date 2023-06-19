@@ -1,0 +1,8 @@
+# Redirect root path to '/search'
+/            /search
+
+# Redirect '/search' and its sub-paths to '/results'
+/search/*    /results
+
+# Redirect '/images' and its sub-paths to '/results'
+/images/*    /results

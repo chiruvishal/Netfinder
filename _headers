@@ -1,0 +1,4 @@
+# Set custom headers for all routes
+/*
+  X-RapidAPI-Key: ad04f1c0e0msh5c9948853e98cb5p14553ejsnbcef61cecae
+  X-RapidAPI-Host: google-search72.p.rapidapi.com
